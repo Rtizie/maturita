@@ -59,30 +59,6 @@ Mohl jsem to dát všechno za 50 korun jak mi radil pan učitel. Ale na to jsem 
   20. [Ladislav Fuks | Spalovač mrtvol](cestina/spalovac_mrtvol.md)<br>
 
 
-## Témata k ústní maturitní zkoušce z Anglického Jazyka:
-  1. [The United Kingdom](anglictina/the_united_kingdom.md)<br>
-  2. [London](anglictina/london.md)<br>
-  3. [Places of interest in the UK](anglictina/places_of_interest_in_the_uk.md)<br>
-  4. [Australia & New Zealand](anglictina/australia_and_new_zealand.md)<br>
-  5. [Canada](anglictina/canada.md)<br>
-  6. [The USA](anglictina/the_usa.md)<br>
-  7. Cities in the USA<br>
-  8. Feastdays, holidays and festivals in English-speaking countries<br>
-  9. The Czech Republic<br>
-  10. Prague<br>
-  11. Places of interest in the Czech Republic<br>
-  12. Feastdays, holidays and festivals in the Czech Republic<br>
-  13. The Czech Republic- My Region<br>
-  14. The Czech Republic and the Media in the Czech Republic<br>
-  15. Czech and British cuisine<br>
-  16. Computers and Data communication<br>
-  17. New ways of social communication<br>
-  18. Anglo-American Literature<br>
-  19. Anglo-American Famous Personalities<br>
-  20. Czech Famous Personalities<br>
-
-
-
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 
   1. [Hardware - základní deska, CPU](site/hardware_zakladni_deska_cpu.md)<br>
